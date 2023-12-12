@@ -1,0 +1,92 @@
+{
+  "title": "Você seria um heroi ou vilão ?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super poder você escolheria ?",
+      "options": [
+        { "id": 1, "name": "Raios-Lasers", "alias": "A" },
+        { "id": 2, "name": "Voar", "alias": "B" },
+        { "id": 3, "name": "Explodir coisas", "alias": "A" },
+        { "id": 4, "name": "Curar feridas", "alias": "B" },
+        { "id": 5, "name": "Soltar fogo pelas mãos", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro ?",
+      "options": [
+        { "id": 1, "name": "Crianças", "alias": "A" },
+        { "id": 2, "name": "Idosos", "alias": "A" },
+        { "id": 3, "name": "Não saberia escolher", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options": [
+        { "id": 1, "name": "Não destruir prédios", "alias": "B" },
+        { "id": 2, "name": "Socar a cara do inimigo", "alias": "A" },
+        { "id": 3, "name": "Não sujar meu traje", "alias": "A" },
+        { "id": 4, "name": "Não deixar ninguém se ferir", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual o seu maior foco ?",
+      "options": [
+        { "id": 1, "name": "Ficar rico com poderes", "alias": "A" },
+        { "id": 2, "name": "Salvar a cidade", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual o seu apelido de super ser ?",
+      "options": [
+        { "id": 1, "name": "O Terrivel", "alias": "A" },
+        { "id": 2, "name": "Amigo da vizinhança", "alias": "B" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual é o seu personagem favorito ?",
+      "options": [
+        { "id": 1, "name": "Homem-Aranha", "alias": "A" },
+        { "id": 2, "name": "Tanos", "alias": "B" },
+        { "id": 3, "name": "Homem de Ferro", "alias": "A" },
+        { "id": 4, "name": "Coringa", "alias": "B" },
+        { "id": 5, "name": "Doende Verde", "alias": "B" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quem deveria ganhar as batalhas ?",
+      "options": [
+        { "id": 1, "name": "O bem", "alias": "A" },
+        { "id": 2, "name": "O mal", "alias": "B" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Um super-herói deve ser sempre correto ?",
+      "options": [
+        { "id": 1, "name": "Sim", "alias": "A" },
+        { "id": 2, "name": "Não", "alias": "B" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Você com super poderes, o que faria ?",
+      "options": [
+        { "id": 1, "name": "Prenderia todos os bandidos", "alias": "A" },
+        { "id": 2, "name": "Roubava um banco", "alias": "B" },
+        { "id": 2, "name": "Não queria saber de ninguém, ia viver minha vida.", "alias": "B" },
+        { "id": 2, "name": "Não deixaria ninguém passar necessidade", "alias": "A" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
